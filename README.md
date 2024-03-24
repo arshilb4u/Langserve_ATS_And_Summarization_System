@@ -72,4 +72,14 @@ add_routes(
 )
 ```
 
+## Application View
 
+![Client_LLM_Application](https://github.com/arshilb4u/Langserve_ATS_And_Summarization_System/assets/30823313/4f36953c-e8c8-416b-90e0-a7d7bbba7915)
+
+## FastAPI Endpoints
+
+![Langserve_FastAPI](https://github.com/arshilb4u/Langserve_ATS_And_Summarization_System/assets/30823313/73025ccd-9c4c-4c54-a41f-6ee1ca1c518f)
+
+## Langsmith Dashboard
+
+![Langsmith_ss](https://github.com/arshilb4u/Langserve_ATS_And_Summarization_System/assets/30823313/ca6cd5db-d3cc-4e0e-a7e0-351282b08d56)
